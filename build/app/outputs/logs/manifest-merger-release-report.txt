@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from [:audioplayers_android] C:\Users\DELL\StudioProjects\mental_arithmetic\build\audioplayers_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] C:\Users\DELL\StudioProjects\mental_arithmetic\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\dba752753b3676f4bf20b3be974173e6\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\2b2d4d9c97bc63ab0cd02f62082a60b4\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\7c9998cab70b0ae183e9926cb0d827a5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\92462384528d92cc1f16681af5db3377\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\ee52b821190e26fbb265e265ab28ccf6\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\6fd12454aa083486bec797ba8831fba6\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\9c614f7fae95a34e597e3cc343aff741\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\666b4af88c3257f0f5f5b85c95dd881f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\DELL\.gradle\caches\transforms-3\b57d97689541cd70a171ee68e0bfcbb1\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e6779265943783c1b4ca93c0628a81a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\09915352ecb0db36fd42b17ffd8e577b\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL\.gradle\caches\transforms-3\62db2b45719f4c658f2ebb7e5305c2e3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL\.gradle\caches\transforms-3\3e2f4472ee88951fcb70ee9d69a8617a\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\DELL\.gradle\caches\transforms-3\13094bfb747795eda1f813fb5dc99348\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DELL\.gradle\caches\transforms-3\614805b24f3bd05c40c7093c1e654d93\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\DELL\.gradle\caches\transforms-3\bb18cf34848d6fb1c27f91e813f2c8e1\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:1:1-41:12
+	package
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:2:5-44
+		INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:3:4-40:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e6779265943783c1b4ca93c0628a81a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e6779265943783c1b4ca93c0628a81a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:4:9-37
+	android:icon
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:5:9-43
+activity#com.example.mental_arithmetic.MainActivity
+ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:6:9-34:20
+	android:launchMode
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:11:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:12:13-55
+	android:configChanges
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:10:13-163
+	android:theme
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:17:13-20:17
+	android:resource
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:19:15-52
+	android:name
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:18:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:28:15-61
+	android:name
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:27:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml:38:13-44
+uses-sdk
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+MERGED from [:audioplayers_android] C:\Users\DELL\StudioProjects\mental_arithmetic\build\audioplayers_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:audioplayers_android] C:\Users\DELL\StudioProjects\mental_arithmetic\build\audioplayers_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\DELL\StudioProjects\mental_arithmetic\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\DELL\StudioProjects\mental_arithmetic\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\dba752753b3676f4bf20b3be974173e6\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\dba752753b3676f4bf20b3be974173e6\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\2b2d4d9c97bc63ab0cd02f62082a60b4\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\2b2d4d9c97bc63ab0cd02f62082a60b4\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\7c9998cab70b0ae183e9926cb0d827a5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\7c9998cab70b0ae183e9926cb0d827a5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\92462384528d92cc1f16681af5db3377\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\92462384528d92cc1f16681af5db3377\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\ee52b821190e26fbb265e265ab28ccf6\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\ee52b821190e26fbb265e265ab28ccf6\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\6fd12454aa083486bec797ba8831fba6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\6fd12454aa083486bec797ba8831fba6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\9c614f7fae95a34e597e3cc343aff741\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\9c614f7fae95a34e597e3cc343aff741\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\666b4af88c3257f0f5f5b85c95dd881f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\666b4af88c3257f0f5f5b85c95dd881f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\DELL\.gradle\caches\transforms-3\b57d97689541cd70a171ee68e0bfcbb1\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\DELL\.gradle\caches\transforms-3\b57d97689541cd70a171ee68e0bfcbb1\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e6779265943783c1b4ca93c0628a81a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e6779265943783c1b4ca93c0628a81a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\09915352ecb0db36fd42b17ffd8e577b\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\09915352ecb0db36fd42b17ffd8e577b\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL\.gradle\caches\transforms-3\62db2b45719f4c658f2ebb7e5305c2e3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL\.gradle\caches\transforms-3\62db2b45719f4c658f2ebb7e5305c2e3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL\.gradle\caches\transforms-3\3e2f4472ee88951fcb70ee9d69a8617a\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL\.gradle\caches\transforms-3\3e2f4472ee88951fcb70ee9d69a8617a\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\DELL\.gradle\caches\transforms-3\13094bfb747795eda1f813fb5dc99348\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\DELL\.gradle\caches\transforms-3\13094bfb747795eda1f813fb5dc99348\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DELL\.gradle\caches\transforms-3\614805b24f3bd05c40c7093c1e654d93\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DELL\.gradle\caches\transforms-3\614805b24f3bd05c40c7093c1e654d93\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\DELL\.gradle\caches\transforms-3\bb18cf34848d6fb1c27f91e813f2c8e1\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\DELL\.gradle\caches\transforms-3\bb18cf34848d6fb1c27f91e813f2c8e1\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\StudioProjects\mental_arithmetic\android\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-3\fab43255deb2e7df6f3fc2e0d8983378\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.mental_arithmetic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.mental_arithmetic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\14946c2aef0a4a862269de823623a6b7\transformed\core-1.9.0\AndroidManifest.xml:26:22-94

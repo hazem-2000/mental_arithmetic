@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/mental_arithmetic/BuildConfig.java
+ com.example.mental_arithmetic.BuildConfig
